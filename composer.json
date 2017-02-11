@@ -1,0 +1,16 @@
+{
+    "name": "richardpq/admin-bundle",
+    "autoload": {
+        "psr-4" : {
+            "RichardPQ\\AdminBundle" : ""
+        }
+    },
+    "description": "Base files for use AdminLTE bootstrap theme in projects that include twig",
+    "authors": [
+        {
+            "name": "Richard Perez",
+            "email": "richardpq@gmail.com"
+        }
+    ],
+    "require": {}
+}
